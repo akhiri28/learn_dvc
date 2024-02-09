@@ -4,12 +4,7 @@
 conda create -n basic_dvc_demo python=3.11.5 -y
 
 conda init bash
-```
 
-'''bash
-conda init bash
-
-'''bash
 conda activate basic_dvc_demo
 
 pip install dvc
@@ -23,6 +18,8 @@ dvc init
 touch dvc.yaml
 
 dvc repro
+```
+
 
 
 
