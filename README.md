@@ -1,7 +1,8 @@
 - Commands ud in the  DVC tutorial
 
-''' bash
+``` bash
 conda create -n basic_dvc_demo python=3.11.5 -y
+```
 
 '''bash
 conda init bash
