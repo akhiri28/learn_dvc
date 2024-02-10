@@ -18,6 +18,8 @@ dvc init
 touch dvc.yaml
 
 dvc repro
+
+git add . && git commit -m "git commands in one line" && git push origin main
 ```
 
 
